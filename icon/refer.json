@@ -2,6 +2,7 @@
 "name":"图标",
 "icons":
   [
-    {"name":"结束乐队", "url":"https://raw.githubusercontent.com/FaIIingU/emby/refs/heads/main/icon/icons/结束乐队.png"}
+    {"name":"结束乐队", "url":"https://raw.githubusercontent.com/FaIIingU/emby/refs/heads/main/icon/icons/结束.png"},
+    {"name":"临境", "url":"https://raw.githubusercontent.com/FaIIingU/emby/refs/heads/main/icon/icons/临境.png"}
   ]
 }
