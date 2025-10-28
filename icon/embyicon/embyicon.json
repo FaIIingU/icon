@@ -1,0 +1,9 @@
+{
+"name":"图标",
+"icons":
+  [
+    {"name":"结束", "url":"https://raw.githubusercontent.com/FaIIingU/icon/refs/heads/main/icon/embyicon/结束.png"},
+    {"name":"临境", "url":"https://raw.githubusercontent.com/FaIIingU/icon/refs/heads/main/icon/embyicon/临境.png"},
+    {"name":"emos", "url":"https://raw.githubusercontent.com/FaIIingU/icon/refs/heads/main/icon/embyicon/emos.png"}
+  ]
+}
